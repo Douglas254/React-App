@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Home from './HomeComponent';
 import Menu from './MenuComponents';
 import Header from './HeaderComponent';
-import DishDetail from './DishdetailComponent';
 import { DISHES } from '../shared/dishes';
 import Footer from './FooterComponent';
 import {Switch, Route, Redirect} from 'react-router-dom';
