@@ -31,3 +31,10 @@ address{
 .navbar-dark {
     background-color: #512DA8;
 }
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: #EE82EE;
+    text-decoration: underline;
+}
