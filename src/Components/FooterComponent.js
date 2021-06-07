@@ -40,7 +40,7 @@ function Footer(props) {
                 </div>
                 <div className="row justify-content-center">             
                     <div className="col-auto">
-                        <p>© Copyright 2018 Ristorante Con Fusion</p>
+                        <p>© Copyright 2018 <span><a href="https://github.com/douglas254" style={{textDecoration: 'none'}}>Ristorante Con Fusion</a></span></p>
                     </div>
                 </div>
             </div>
